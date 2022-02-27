@@ -4,7 +4,7 @@
     "lib": ["es2021", "ES2018", "DOM"],
     "moduleResolution": "node",
     "module": "commonjs",
-    "noEmit": true,
+    "noEmit": false,
     "declaration": true,
     "allowSyntheticDefaultImports": true,
     "rootDir": "src",
